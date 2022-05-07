@@ -16,7 +16,7 @@ void toi(char s, char d, char h, int n, int* c){
         return;
 
 
-    }
+     }
 
 }
 
